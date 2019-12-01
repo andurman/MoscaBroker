@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e5062b4-6718-4cf4-aae0-1f85d342a36a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>const</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1QQ0RMjkxCUCKnEDbEEqyLKlhY7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IoT2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oğuzhan Andurman\WebstormProjects\mqtt\muh" />
+      <recent name="C:\Users\Oğuzhan Andurman\WebstormProjects\mqtt\tip" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5062b4-6718-4cf4-aae0-1f85d342a36a" name="Default Changelist" comment="" />
+      <created>1543773933891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543773933891</updated>
+      <workItem from="1543773935209" duration="1304000" />
+      <workItem from="1543775264180" duration="223000" />
+      <workItem from="1543775496039" duration="2481000" />
+      <workItem from="1544119725542" duration="692000" />
+      <workItem from="1544293994647" duration="2116000" />
+      <workItem from="1544440478223" duration="3710000" />
+      <workItem from="1545587142359" duration="2686000" />
+      <workItem from="1545998875184" duration="53000" />
+      <workItem from="1546246181951" duration="21000" />
+      <workItem from="1546359814924" duration="6285000" />
+      <workItem from="1546368186547" duration="279000" />
+      <workItem from="1546444760417" duration="4954000" />
+      <workItem from="1546459785524" duration="20000" />
+      <workItem from="1546460447503" duration="138000" />
+      <workItem from="1546460875490" duration="256000" />
+      <workItem from="1546462526456" duration="11000" />
+      <workItem from="1546691010214" duration="2615000" />
+      <workItem from="1546779191733" duration="137000" />
+      <workItem from="1547793818520" duration="211000" />
+      <workItem from="1548599576248" duration="1069000" />
+      <workItem from="1550910030331" duration="17000" />
+      <workItem from="1551259821076" duration="211000" />
+      <workItem from="1551260899724" duration="628000" />
+      <workItem from="1551262585357" duration="358000" />
+      <workItem from="1553522363976" duration="56000" />
+      <workItem from="1553523690109" duration="148000" />
+      <workItem from="1554205570446" duration="673000" />
+      <workItem from="1555858410072" duration="613000" />
+      <workItem from="1555927156447" duration="3377000" />
+      <workItem from="1555945842360" duration="2589000" />
+      <workItem from="1556012420776" duration="2387000" />
+      <workItem from="1556628017278" duration="409000" />
+      <workItem from="1561052219128" duration="332000" />
+      <workItem from="1562769071118" duration="667000" />
+      <workItem from="1562938702971" duration="9000" />
+      <workItem from="1567687505513" duration="1772000" />
+      <workItem from="1575203618729" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
